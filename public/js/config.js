@@ -13,14 +13,14 @@ window.INVITATION = {
       title: 'S.Hut.',
       parents: 'Putra kedua dari Bapak Wirawan Hadi & Ibu Kartika Sari',
       instagram: 'argamahendra', // tanpa @ — kosongkan untuk menyembunyikan
-      photo: 'images/groom.jpg',
+      photo: 'img-undangan/61d0d79a7753b69f3e143795836a8153.jpg',
     },
     bride: {
       name: 'Sekar Ayu Larasati',
       title: 'S.P.',
       parents: 'Putri pertama dari Bapak Bambang Suryono & Ibu Melati Rahayu',
       instagram: 'sekarayu',
-      photo: 'images/bride.jpg',
+      photo: 'img-undangan/a843abd1f4f511a3b717402a0b48a006.jpg',
     },
   },
 
@@ -30,12 +30,12 @@ window.INVITATION = {
   dateLong: 'Minggu, 18 April 2027',
 
   cover: {
-    photo: 'images/cover.jpg',
+    photo: 'img-undangan/d0defbbc7f6b72c5f8f8f7620ad5691a.jpg',
     defaultGuest: 'Tamu Undangan', // dipakai bila tidak ada ?to=Nama di URL
   },
 
   hero: {
-    photo: 'images/hero.jpg',
+    photo: 'img-undangan/45c3f0078259ab963014c4d835a8c48e.jpg',
     kicker: 'Kami menikah',
   },
 
@@ -49,25 +49,25 @@ window.INVITATION = {
       year: '2018',
       title: 'Benih pertama',
       text: 'Kami bertemu di sebuah pameran tanaman di Bogor — ia sibuk memotret anggrek, saya sibuk menawar pot. Satu percakapan kecil yang ternyata panjang.',
-      photo: 'images/gallery-hands.jpg',
+      photo: 'img-undangan/a751177140d9a863db5f558a5c12d23a.jpg',
     },
     {
       year: '2021',
       title: 'Tumbuh perlahan',
       text: 'Seperti kebun, cinta kami dirawat pelan-pelan: lewat sabar, lewat jarak, dan lewat kebiasaan kecil yang tak pernah absen.',
-      photo: 'images/gallery-forest.jpg',
+      photo: 'img-undangan/d0defbbc7f6b72c5f8f8f7620ad5691a.jpg',
     },
     {
       year: '2026',
       title: 'Mekar',
       text: 'Di halaman rumah yang penuh bunga, dua keluarga duduk bersama. Sebuah cincin, satu pertanyaan, dan satu jawaban: iya.',
-      photo: 'images/gallery-rings.jpg',
+      photo: 'img-undangan/0a400eaa1f10a7e4a12e079a7f321df1.jpg',
     },
     {
       year: '2027',
       title: 'Taman kami',
       text: 'Hari ini kami mulai menanam taman kami sendiri. Terima kasih telah menjadi bagian dari musim-musim yang kami lalui.',
-      photo: 'images/gallery-aisle.jpg',
+      photo: 'img-undangan/0a2085c735ff185d105bef9eb93f3b47.jpg',
     },
   ],
 
@@ -95,13 +95,13 @@ window.INVITATION = {
   ],
 
   gallery: [
-    'images/gallery-smile.jpg',
-    'images/gallery-veil.jpg',
-    'images/gallery-hands.jpg',
-    'images/gallery-shoes.jpg',
-    'images/gallery-aisle.jpg',
-    'images/gallery-forest.jpg',
-    'images/gallery-rings.jpg',
+    'img-undangan/45c3f0078259ab963014c4d835a8c48e.jpg',
+    'img-undangan/6fe3e4aa5d48be2166de719e3831f568.jpg',
+    'img-undangan/a751177140d9a863db5f558a5c12d23a.jpg',
+    'img-undangan/af8229644236640067d2be790fe9a79a.jpg',
+    'img-undangan/0a2085c735ff185d105bef9eb93f3b47.jpg',
+    'img-undangan/d0defbbc7f6b72c5f8f8f7620ad5691a.jpg',
+    'img-undangan/0a400eaa1f10a7e4a12e079a7f321df1.jpg',
   ],
 
   gift: {
@@ -119,7 +119,7 @@ window.INVITATION = {
   },
 
   closing: {
-    photo: 'images/closing.jpg',
+    photo: 'img-undangan/a751177140d9a863db5f558a5c12d23a.jpg',
     title: 'Terima kasih',
     text: 'Kehadiran dan doa restu Anda akan membuat taman kecil kami mekar lebih indah.',
   },
